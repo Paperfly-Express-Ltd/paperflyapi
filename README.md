@@ -31,7 +31,7 @@ The recommended way to install PAPERFLY PHP Client is through [Composer](https:/
 curl -sS https://getcomposer.org/installer | php
 
 // Add PAPERFLY PHP client as a dependency
-composer require onlinecheckwriter/mailcheck
+composer require paperfly-express-ltd/paperflyapi
 ```
 
 After installing, you need to require Composer's autoloader:
