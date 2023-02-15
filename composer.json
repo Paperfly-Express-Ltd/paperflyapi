@@ -1,5 +1,5 @@
 {
-    "name": "Paperfly-Express-Ltd/paperflyapi",
+    "name": "paperfly-express-ltd/paperflyapi",
     "description": "Paperfly API package for composer",
     "type": "library",
     "license": "MIT",
