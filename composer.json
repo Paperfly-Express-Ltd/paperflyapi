@@ -1,12 +1,12 @@
 {
-    "name": "paperfly/paperfly-api",
+    "name": "Paperfly-Express-Ltd/paperflyapi",
     "description": "Paperfly API package for composer",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Paperfly Private Ltd.",
-            "email": "support@paperfly.com.bd"
+            "email": "md.ashrafuzzaman@paperfly.com.bd"
         }
     ],
     "autoload": {
